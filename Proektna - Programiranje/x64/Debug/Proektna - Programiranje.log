@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\dimce\mainRepos\NaprednoProgramiranje2023\Proektna - Programiranje\Main.cpp(72): warning C4715: 'checkOdgovor': not all control paths return a value
+C:\Users\dimce\mainRepos\NaprednoProgramiranje2023\Proektna - Programiranje\Main.cpp(129): warning C4715: 'score': not all control paths return a value
+  Proektna - Programiranje.vcxproj -> C:\Users\dimce\mainRepos\NaprednoProgramiranje2023\Proektna - Programiranje\x64\Debug\Proektna - Programiranje.exe

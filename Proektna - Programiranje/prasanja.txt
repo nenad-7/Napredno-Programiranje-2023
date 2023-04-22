@@ -1,0 +1,12 @@
+1. Koj e glaven grad na Makedonija?; a) Bitola; b) Skopje; c) Tetovo
+2. Koja valuta se koristi vo Makedonija?; a) Denar; b) Evro; c) Dolar
+3. Koj grad e najgolem po ziteli vo Makedonija?; a) Skopje; b) Gostivar; c) Veles
+4. Koja reka tece niz centarot na Bitola?; a) Crna reka; b) Vardar; c) Dragor
+5. Kopceto Caps Lock se koristi za?; a) Nakosuvanje na bukvite; b) Zgolemuvanje na bukvite; c) Pecatenje na tekstot; d) Ramnenje
+6. C++ se koristi za?; a) Crtanje; b) Back-end programiranje; c) Front-end programiranje; d) Ureduvanje na tekst
+7. "cout" se koristi za?; a) Ispis na konzola; b) Vnes od tastatura; c) Vnes od fajl; d) Pecatenje na dokument
+8. Semaforot moze da bide vo?; a) Bela boja; b) Rozeva boja; c) Zolta boja; d) Sina boja; e) Zlatna boja
+9. Koi se ciklusi za granenje vo c++?; a) for; b)istream; c) cin; d) while; e) fstream
+10. Za sto se koristi tastaturata?; a) Skeniranje; b) Vnes na podatoci; c) Pisuvanje na bukvi; d) Povrzuvanje so internet; e) Zboruvanje
+11. CSS se koristi za?; a) Stajling na web-stranata; b) Funkcionalnost; c) Menuvanje na boi; d) Pribiranje na podatoci; e) Programiranje
+12. JavaScript se koristi kako ili za?; a) Programski jazik; b) Mehanicki ured; c) Hardverski ured; d) Funkcionalnost na web-strana; e) Operativen sistem
