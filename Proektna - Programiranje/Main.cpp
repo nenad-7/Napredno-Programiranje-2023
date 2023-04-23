@@ -18,8 +18,7 @@ char tocniPrvi[4] = { 'b', 'a', 'a', 'c' };
 char tocniVtori[4] = { 'b', 'b', 'a', 'c' };
 char tocniTreti[4][2] = { {'a', 'd'}, {'b', 'c'}, {'a', 'c'}, {'a', 'd'} };
 
-// Funkcija koja se koristi za primanje na vlez
-
+// Funkcija koja se koristi za proverka na toa dali fajlot so takvo ime postoi
 
 inline bool exists_test0(const std::string& name) {
     ifstream f(name.c_str());
@@ -53,7 +52,6 @@ void writeOcenka(fstream& file, ios,  int score) {
 // Funkcija koja se koristi za proverka na odgovorot i boduvanje
 
 float checkOdgovor(int brojnaprasanje, char answer, char answer2) {
-
 
     if (brojnaprasanje <= 4) {
 
@@ -103,12 +101,6 @@ float handleInput(int brojprasanje, fstream& file) {
     }
 
     return checkOdgovor(brojprasanje, odgovor, odgovor2);
-}
-
-bool fileExists(string fileName)
-{
-    ifstream infile(fileName);
-    return infile.bad();
 }
 
 // Funkcija koja se koristi za proverka na poeni i vrakanje na vrednosta na ocenkata
